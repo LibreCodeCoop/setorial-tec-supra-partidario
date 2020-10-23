@@ -1,1 +1,1 @@
-# DIretrizesSL
+Repositório criado a partir do grupo de telegram *Setorial tec supra partidário* para desenvolver cartas abertas, diretrizes e projetos de lei para direcionar a candidatos, partidos, mandatos e universidades públicas a respeito da importância do emprego do software livre no setor público.
